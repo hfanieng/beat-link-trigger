@@ -16,3 +16,4 @@ pom.xml.asc
 .hg/
 .idea
 beat-link-trigger.iml
+.DS_Store
